@@ -1,7 +1,7 @@
 # Yunagi
 
 <p align="center">
-  <img src="./banner.png" alt="Bannière de présentation de Yunagi">
+  <img src="../banner.png" alt="Bannière de présentation de Yunagi">
 </p>
 
 **Yunagi est une plateforme francophone dédiée à la découverte et au suivi de mangas, d'animes et de webtoons.**
